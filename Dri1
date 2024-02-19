@@ -1,0 +1,2 @@
+total_seconds = (42 * 60) + 42
+print(total_seconds)
